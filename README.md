@@ -33,25 +33,25 @@ CodeX, a German beverage company, launched its energy drink in 10 Indian cities 
 - Typical consumption situations.
 - Influencing factors for purchase decisions (price, packaging).
 
-### Product Development:
+## 3. Secondary  Insights
 - Focus areas for product development (branding, taste, availability).
 
-## 3. Work Done
+## 4. Work Done
 - Analyzed survey data using Power BI.
 - Cleaned and structured data for better insights.
 - Created various visualizations to represent data effectively.
 - Developed interactive dashboards to enable deeper exploration of data.
 
-## 4. What I Learned
+## 5. What I Learned
 - Advanced data cleaning and transformation techniques in Power BI.
 - How to derive meaningful insights from survey data.
 - Creating interactive and dynamic visualizations to present data.
 - Effective storytelling with data to support marketing strategies.
 
-## 5. Conclusion
+## 6. Conclusion
 The project provided valuable insights into consumer behavior, market competition, and marketing effectiveness, which can help CodeX make informed decisions to enhance their market presence in India.
 
-## 6. Screenshots
+## 7. Screenshots
 Here are some screenshots of the project:
 
 ![CodeX - drink_insights_page-0001](https://github.com/Prathameshv07/Deliver_Data-Driven_Insights_for_the_F-B_Marketing_Team/assets/82259786/8d501b23-9fe5-4460-830b-ba7e511612b0)
@@ -63,7 +63,7 @@ Here are some screenshots of the project:
 ![CodeX - drink_insights_page-0003](https://github.com/Prathameshv07/Deliver_Data-Driven_Insights_for_the_F-B_Marketing_Team/assets/82259786/d9552e6d-6bed-42c5-aa83-19f8a10efb46)
 
 
-## 7. Additional Information
+## 6. Additional Information
 - Immediate product improvements were identified.
 - Suggested ideal pricing strategy based on market analysis.
 - Recommended effective marketing campaigns and offers.
