@@ -37,10 +37,12 @@ CodeX, a German beverage company, launched its energy drink in 10 Indian cities 
 - Focus areas for product development (branding, taste, availability).
 
 ## 4. Work Done
-- Analyzed survey data using Power BI.
-- Cleaned and structured data for better insights.
-- Created various visualizations to represent data effectively.
-- Developed interactive dashboards to enable deeper exploration of data.
+- Selected color palette from Color Hunt and sourced suitable images from Flaticon or created custom ones.
+- Chose appropriate graph types for data visualization based on factors like respondent demographics.
+- Applied column filters and customized tooltips for enhanced data exploration.
+- Implemented advanced measures using calculate functions with specific filters.
+- Created page navigation for seamless insights browsing.
+- Organized and named elements in the view ribbon panel for efficient use of filters and functions.
 
 ## 5. What I Learned
 - Advanced data cleaning and transformation techniques in Power BI.
