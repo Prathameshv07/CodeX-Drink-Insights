@@ -56,11 +56,11 @@ Here are some screenshots of the project:
 
 ![CodeX - drink_insights_page-0001](https://github.com/Prathameshv07/Deliver_Data-Driven_Insights_for_the_F-B_Marketing_Team/assets/82259786/8d501b23-9fe5-4460-830b-ba7e511612b0)
 ![CodeX - drink_insights_page-0002](https://github.com/Prathameshv07/Deliver_Data-Driven_Insights_for_the_F-B_Marketing_Team/assets/82259786/5221bb6b-4246-42fa-ac0e-2ba07f9ad440)
-![CodeX - drink_insights_page-0007](https://github.com/Prathameshv07/Deliver_Data-Driven_Insights_for_the_F-B_Marketing_Team/assets/82259786/ecb4bc27-801a-4dac-b500-1d62f8cf0a54)
-![CodeX - drink_insights_page-0006](https://github.com/Prathameshv07/Deliver_Data-Driven_Insights_for_the_F-B_Marketing_Team/assets/82259786/ecd1c34f-c193-491e-a3ee-ddf4ce769cc7)
-![CodeX - drink_insights_page-0005](https://github.com/Prathameshv07/Deliver_Data-Driven_Insights_for_the_F-B_Marketing_Team/assets/82259786/5d59d98b-a7ac-46d3-b4f3-ab069a926cb4)
-![CodeX - drink_insights_page-0004](https://github.com/Prathameshv07/Deliver_Data-Driven_Insights_for_the_F-B_Marketing_Team/assets/82259786/7e86a312-cd6a-4c88-9550-84bced0ea95f)
 ![CodeX - drink_insights_page-0003](https://github.com/Prathameshv07/Deliver_Data-Driven_Insights_for_the_F-B_Marketing_Team/assets/82259786/d9552e6d-6bed-42c5-aa83-19f8a10efb46)
+![CodeX - drink_insights_page-0004](https://github.com/Prathameshv07/Deliver_Data-Driven_Insights_for_the_F-B_Marketing_Team/assets/82259786/7e86a312-cd6a-4c88-9550-84bced0ea95f)
+![CodeX - drink_insights_page-0005](https://github.com/Prathameshv07/Deliver_Data-Driven_Insights_for_the_F-B_Marketing_Team/assets/82259786/5d59d98b-a7ac-46d3-b4f3-ab069a926cb4)
+![CodeX - drink_insights_page-0006](https://github.com/Prathameshv07/Deliver_Data-Driven_Insights_for_the_F-B_Marketing_Team/assets/82259786/ecd1c34f-c193-491e-a3ee-ddf4ce769cc7)
+![CodeX - drink_insights_page-0007](https://github.com/Prathameshv07/Deliver_Data-Driven_Insights_for_the_F-B_Marketing_Team/assets/82259786/ecb4bc27-801a-4dac-b500-1d62f8cf0a54)
 
 
 ## 6. Additional Information
