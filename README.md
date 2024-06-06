@@ -45,10 +45,12 @@ CodeX, a German beverage company, launched its energy drink in 10 Indian cities 
 - Organized and named elements in the view ribbon panel for efficient use of filters and functions.
 
 ## 5. What I Learned
-- Advanced data cleaning and transformation techniques in Power BI.
-- How to derive meaningful insights from survey data.
-- Creating interactive and dynamic visualizations to present data.
-- Effective storytelling with data to support marketing strategies.
+- Harnessing the power of color psychology through curated palettes from Color Hunt and imagery selection from Flaticon or custom creation.
+- Strategic decision-making in data visualization by aligning graph types with respondent demographics.
+- Leveraging interactivity features like column filters and customized tooltips to delve deeper into data exploration.
+- Mastery of advanced calculations using calculate functions, tailored to specific filters for precise insights.
+- Crafting seamless user experiences through intuitive page navigation for effortless insights consumption.
+- Optimizing workflow efficiency by organizing and labeling elements within the view ribbon panel for streamlined filtering and functionality utilization.
 
 ## 6. Conclusion
 The project provided valuable insights into consumer behavior, market competition, and marketing effectiveness, which can help CodeX make informed decisions to enhance their market presence in India.
