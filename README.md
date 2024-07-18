@@ -1,7 +1,5 @@
 # Deliver Data-Driven Insights for the F-B Marketing Team
 
-#### Link to dashboard: [CodeX Drink Insights](https://colab.research.google.com/drive/1DD3BrZoOGeeRZvhqwjUORCr1aD2NFXII?usp=sharing)
-
 ## 1. Project Overview
 
 ### Company Info:
