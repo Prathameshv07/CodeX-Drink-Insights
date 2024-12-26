@@ -1,5 +1,7 @@
 # Deliver Data-Driven Insights for the F-B Marketing Team
 
+#### Link to live dashboard: CodeX-Drink-Insights - Power BI](https://app.powerbi.com/view?r=eyJrIjoiZjM1ZjUzOTktYjAwNS00NjUwLWEwNzUtN2JiODI5YWI2MWI2IiwidCI6IjIwOWFiZTg0LWQ3NjYtNGI0My1iN2E0LTU3NmMxZmUyODk5NyJ9)
+
 ## 1. Project Overview
 
 ### Company Info:
