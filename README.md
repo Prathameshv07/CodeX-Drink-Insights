@@ -39,7 +39,7 @@ CodeX, a German beverage company, launched its energy drink in 10 Indian cities 
 - Focus areas for product development (branding, taste, availability).
 
 ## 4. Work Done
-- Selected color palette from Color Hunt and sourced suitable images from Flaticon or created custom ones.
+- Selected color palette from Color Hunt and sourced suitable images from Flaticon & created custom ones via canva.
 - Chose appropriate graph types for data visualization based on factors like respondent demographics.
 - Applied column filters and customized tooltips for enhanced data exploration.
 - Implemented advanced measures using calculate functions with specific filters.
