@@ -76,3 +76,12 @@ Here are some screenshots of the project:
 - Proposed suitable brand ambassadors and target audience.
 
 Feel free to explore the repository and provide feedback or suggestions!
+
+## License
+
+[![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc/4.0/)
+
+This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International License**.  
+You are free to **use, share, and adapt** the material for **non-commercial and educational purposes**, as long as proper **credit is given** and any changes are noted.
+
+Learn more: [http://creativecommons.org/licenses/by-nc/4.0/](http://creativecommons.org/licenses/by-nc/4.0/)
