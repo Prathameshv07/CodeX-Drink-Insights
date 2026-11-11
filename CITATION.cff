@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it using the metadata below."
+type: software
+title: "CodeX Drink Insights: Survey Analytics Dashboard"
+authors:
+  - given-names: "Prathamesh Sarjerao"
+    family-names: "Vaidya"
+repository-code: "https://github.com/Prathameshv07/CodeX-Drink-Insights"
+license: CC-BY-NC-4.0
+date-released: "2025-04-29"
+abstract: "An interactive Power BI dashboard analysing 10,000 consumer survey responses across 10 Indian cities to derive demographic, preference, competition, marketing-channel and purchase-behaviour insights for an energy-drink launch."
+keywords:
+  - "survey analytics"
+  - "business intelligence"
+  - "Power BI"
+  - "DAX"
+  - "consumer behaviour"

@@ -1,5 +1,7 @@
 # Deliver Data-Driven Insights for the F-B Marketing Team
 
+> **Context:** Completed as part of the [Codebasics](https://codebasics.io) Resume Project Challenge #6. The problem statement and input dataset (`C6 Input Files.zip`) are provided by Codebasics and are **not** covered by this repository's license; the analysis, code and write-up are my own.
+
 #### Link to live dashboard: [CodeX-Drink-Insights - Power BI](https://app.powerbi.com/view?r=eyJrIjoiZjM1ZjUzOTktYjAwNS00NjUwLWEwNzUtN2JiODI5YWI2MWI2IiwidCI6IjIwOWFiZTg0LWQ3NjYtNGI0My1iN2E0LTU3NmMxZmUyODk5NyJ9)
 
 ## 1. Project Overview
@@ -35,7 +37,7 @@ CodeX, a German beverage company, launched its energy drink in 10 Indian cities 
 - Typical consumption situations.
 - Influencing factors for purchase decisions (price, packaging).
 
-## 3. Secondary  Insights
+## 3. Secondary Insights
 - Focus areas for product development (branding, taste, availability).
 
 ## 4. Work Done
@@ -69,19 +71,27 @@ Here are some screenshots of the project:
 ![CodeX - drink_insights_page-0007](https://github.com/Prathameshv07/Deliver_Data-Driven_Insights_for_the_F-B_Marketing_Team/assets/82259786/ecb4bc27-801a-4dac-b500-1d62f8cf0a54)
 
 
-## 6. Additional Information
+## 8. Additional Information
 - Immediate product improvements were identified.
 - Suggested ideal pricing strategy based on market analysis.
 - Recommended effective marketing campaigns and offers.
 - Proposed suitable brand ambassadors and target audience.
 
-Feel free to explore the repository and provide feedback or suggestions!
+## Citation
+
+If you use or build on this project, please cite it. GitHub's **"Cite this repository"** button (generated from [`CITATION.cff`](CITATION.cff)) provides APA and BibTeX formats.
+
+```bibtex
+@software{vaidya_codexdrinkinsights_2024,
+  author = {Vaidya, Prathamesh Sarjerao},
+  title  = {CodeX Drink Insights: Survey Analytics Dashboard},
+  year   = {2024},
+  url    = {https://github.com/Prathameshv07/CodeX-Drink-Insights}
+}
+```
 
 ## License
 
-[![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc/4.0/)
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
-This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International License**.  
-You are free to **use, share, and adapt** the material for **non-commercial and educational purposes**, as long as proper **credit is given** and any changes are noted.
-
-Learn more: [http://creativecommons.org/licenses/by-nc/4.0/](http://creativecommons.org/licenses/by-nc/4.0/)
+© 2024 Prathamesh Sarjerao Vaidya. This work is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/). You may share and adapt it for **non-commercial** purposes, provided you **give appropriate credit** and indicate any changes. See [LICENSE](LICENSE) for details.
